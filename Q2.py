@@ -1,4 +1,3 @@
-```python
 # Student Marks Analysis
 
 marks = [78, 35, 92, 40, 61]
