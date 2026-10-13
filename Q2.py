@@ -37,7 +37,7 @@ marks[0] = 80
 
 print("List after changing the first mark:", marks)
 
-# A tuple cannot be changed.
+# A list can be changed, but a tuple cannot be changed.
+# This is because lists are mutable and tuples are immutable.
 # Uncomment the next line and run it separately to see the error.
 # marks_tuple[0] = 80
-```
